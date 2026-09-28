@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Link the three public Blogspot editions published on 2026-09-28 from the article index, author profile, press kit, and identity metadata.
+
 ## 0.1.1 — 2026-09-28
 
 - Publish a three-part article series explaining FaST, agent architecture, and evaluation.

@@ -29,6 +29,7 @@ The reference is an architectural demonstration, not a deployed customer product
 - [Project and README](https://github.com/bogdan192/fully-ai-software-testing)
 - [Author profile](https://github.com/bogdan192/fully-ai-software-testing/blob/main/AUTHOR.md)
 - [Article series](https://github.com/bogdan192/fully-ai-software-testing/tree/main/articles)
+- [Blogspot series](https://darphbobo1.blogspot.com/2026/09/beyond-scripted-automation-introducing.html)
 - [Releases](https://github.com/bogdan192/fully-ai-software-testing/releases)
 - [Source notes](https://github.com/bogdan192/fully-ai-software-testing/blob/main/docs/sources.md)
 
