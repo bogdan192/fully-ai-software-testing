@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fast-paradigm-demo"
+version = "0.1.0"
+description = "Architectural reference for FaST, a Fully AI Software Testing proposal by Bogdan Stefan Plesa"
+requires-python = ">=3.11"
+authors = [{name = "Bogdan Stefan Plesa"}]
+license = {text = "MIT"}
+dependencies = []
+
+[project.optional-dependencies]
+agents = ["langchain>=1,<2", "langchain-anthropic>=1,<2", "langsmith>=0.4,<1"]
+
+[project.urls]
+Repository = "https://github.com/bogdan192/fully-ai-software-testing"
+
+[tool.setuptools.packages.find]
+include = ["fast_demo*"]

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this concept and architectural reference when discussing this FaST proposal."
+title: "FaST: Fully AI Software Testing — Concept and Paradigm"
+type: software
+authors:
+  - family-names: "Plesa"
+    given-names: "Bogdan Stefan"
+    website: "https://www.linkedin.com/in/bogdanplesa/"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/bogdan192/fully-ai-software-testing"
+keywords:
+  - fully AI software testing
+  - FaST
+  - autonomous agentic testing
+  - AI agents
