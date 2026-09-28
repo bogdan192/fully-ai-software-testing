@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1 — 2026-09-28
+
+- Publish a three-part article series explaining FaST, agent architecture, and evaluation.
+- Add a dedicated author profile for Bogdan Stefan Plesa, linking his short-name alias and public profiles.
+- Add a press kit and machine-readable project/author metadata.
+- Add navigation from the main README to the public series and author profile.
+- No changes to the execution engine or its supported testing capabilities.
+
 ## 0.1.0 — 2026-09-28
 
 - Publish the initial FaST concept and paradigm attributed to Bogdan Stefan Plesa.

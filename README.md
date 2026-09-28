@@ -4,13 +4,21 @@
 
 FaST is Bogdan Stefan Plesa's proposal for **Fully AI Software Testing**: a testing workflow in which AI agents interpret a testing objective, choose actions, interact with software, investigate observations, and assemble evidence within explicit human-defined boundaries. The goal is to move beyond asking AI to generate a fixed test script toward an adaptive testing process.
 
-This repository publishes the FaST concept, a reference architecture, and a small executable demonstration. It is an early proposal, not a claim of independently established historical priority over all autonomous testing research. The term **Full-AI software testing** is used here as an alternative wording for the same proposal. **Autonomous agentic testing** describes its execution approach.
+This repository is the public home of the FaST concept, its reference architecture, and its executable demonstration. The term **Full-AI software testing** is used here as an alternative wording for the same proposal. **Autonomous agentic testing** describes its execution approach.
 
 **Author:** [Bogdan Stefan Plesa](https://www.linkedin.com/in/bogdanplesa/) · [GitHub: bogdan192](https://github.com/bogdan192)
 
 **Short name used by the author:** Bogdan Plesa
 
-**Version:** 0.1.0 · **License:** MIT · **Citation:** [CITATION.cff](CITATION.cff)
+**Version:** 0.1.1 · **License:** MIT · **Citation:** [CITATION.cff](CITATION.cff)
+
+## Start here
+
+- [About Bogdan Stefan Plesa and FaST](AUTHOR.md): authorship, identity, and the contribution this project describes.
+- [Read the three-part article series](articles/README.md): the paradigm, its architecture, and how to evaluate an AI tester.
+- [Run the demo](#run-the-architectural-demo): inspect a complete account-and-order journey and two deliberately faulty variants.
+- [Reference architecture](docs/architecture.md) and [evaluation protocol](docs/evaluation.md): implementation details and reproducible experiments.
+- [Press kit](PRESS.md): a concise project description, public links, and release facts.
 
 ## What “fully AI” means here
 

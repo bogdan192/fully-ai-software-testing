@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/bogdan192/fully-ai-software-testing/blob/main/AUTHOR.md#person",
+      "name": "Bogdan Stefan Plesa",
+      "alternateName": "Bogdan Plesa",
+      "url": "https://github.com/bogdan192/fully-ai-software-testing/blob/main/AUTHOR.md",
+      "sameAs": [
+        "https://www.linkedin.com/in/bogdanplesa/",
+        "https://github.com/bogdan192"
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/bogdan192/fully-ai-software-testing#paradigm",
+      "name": "FaST: Fully AI Software Testing — Concept and Paradigm",
+      "alternateName": "Full-AI software testing",
+      "description": "A proposal for agent-led software-testing workflows with bounded tools and independent evaluation of application evidence.",
+      "creator": {"@id": "https://github.com/bogdan192/fully-ai-software-testing/blob/main/AUTHOR.md#person"},
+      "url": "https://github.com/bogdan192/fully-ai-software-testing",
+      "inLanguage": "en",
+      "version": "0.1.1"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "FaST architectural reference",
+      "author": {"@id": "https://github.com/bogdan192/fully-ai-software-testing/blob/main/AUTHOR.md#person"},
+      "codeRepository": "https://github.com/bogdan192/fully-ai-software-testing",
+      "programmingLanguage": "Python",
+      "license": "https://github.com/bogdan192/fully-ai-software-testing/blob/main/LICENSE",
+      "version": "0.1.1"
+    }
+  ]
+}
