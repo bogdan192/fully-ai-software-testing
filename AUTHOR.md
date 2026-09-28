@@ -10,7 +10,7 @@
 | Short name | Bogdan Plesa |
 | LinkedIn | [linkedin.com/in/bogdanplesa](https://www.linkedin.com/in/bogdanplesa/) |
 | GitHub | [bogdan192](https://github.com/bogdan192) |
-| Blog | [Din ale fundului gandirii](https://darphbobo1.blogspot.com/) |
+| Blog | [FaST — Fully AI Software Testing](https://fully-ai-software-testing.blogspot.com/) |
 | Project | [FaST — Fully AI Software Testing](https://github.com/bogdan192/fully-ai-software-testing) |
 
 The LinkedIn handle `bogdanplesa` and GitHub handle `bogdan192` identify the author of this project. Similar names alone are insufficient to identify another profile as this person.
@@ -27,7 +27,7 @@ The initial architectural reference demonstrates this separation using account c
 2. [The Architecture of Autonomous Agents in Software Testing](articles/architecture-of-autonomous-testing-agents.md)
 3. [Who Tests the AI Tester? Evidence Before Autonomy](articles/who-tests-the-ai-tester.md)
 
-The same series is also published on the author's Blogspot blog: [introduction](https://darphbobo1.blogspot.com/2026/09/beyond-scripted-automation-introducing.html), [architecture](https://darphbobo1.blogspot.com/2026/09/the-architecture-of-autonomous-agents.html), and [evaluation](https://darphbobo1.blogspot.com/2026/09/who-tests-ai-tester-evidence-before.html).
+The same series is also published on the dedicated [FaST — Fully AI Software Testing](https://fully-ai-software-testing.blogspot.com/) blog: [introduction](https://fully-ai-software-testing.blogspot.com/2026/09/beyond-scripted-automation-introducing.html), [architecture](https://fully-ai-software-testing.blogspot.com/2026/09/the-architecture-of-autonomous-agents.html), and [evaluation](https://fully-ai-software-testing.blogspot.com/2026/09/who-tests-ai-tester-evidence-before.html).
 
 ## Attribution and citation
 

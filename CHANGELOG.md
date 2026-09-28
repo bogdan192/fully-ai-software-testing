@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Link the three public Blogspot editions published on 2026-09-28 from the article index, author profile, press kit, and identity metadata.
+- Link the three public editions on the dedicated FaST Blogspot site from the article index, author profile, press kit, and identity metadata.
 
 ## 0.1.1 — 2026-09-28
 
